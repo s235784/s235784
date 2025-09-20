@@ -2,9 +2,9 @@
 
 I am Nuo Tian, a college student.
 
-[![NuoTian's GitHub stats](https://github-readme-stats.vercel.app/api?username=s235784&hide=contribs,prs&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![NuoTian's GitHub stats](https://github-readme-stats-gamma-six-qayzd0vd8y.vercel.app/api?username=s235784&hide=contribs,prs&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s235784&layout=compact)
+![Top Langs](https://github-readme-stats-gamma-six-qayzd0vd8y.vercel.app/api/top-langs/?username=s235784&layout=compact&exclude_repo=ACFLY_A9_Firmware_Unofficial)
 
 <!--
 
