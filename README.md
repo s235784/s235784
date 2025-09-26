@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nuo Tian, a college student.
+I am Nosora.
 
 [![NuoTian's GitHub stats](https://github-readme-stats-gamma-six-qayzd0vd8y.vercel.app/api?username=s235784&hide=contribs,prs&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
